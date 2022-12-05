@@ -1,0 +1,21 @@
+body > footer {
+    background-color: #6495ED;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+body > header {
+    background-color: #6495ED;
+    padding: 10px;
+    color: white;
+}
+
+nav > ul {
+    list-style: square;
+}
+
+.categories {
+    list-style-position: outside;
+    list-style: square;
+}
